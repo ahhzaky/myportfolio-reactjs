@@ -1,0 +1,115 @@
+{
+  "main": {
+    "name": "Ahmad Zaky",
+    "occupation": "ReactJS Developer && Flutter Developer ",
+    "description": "Full Stack React Developer and Flutter Developer by Day, Founder && Freelancer by Night. #ThinkProgrammer",
+    "image": "IG_Ahmad.jpeg",
+    "bio": "My name is Zaky, I'm a Full Stack ReactJS Developer and Flutter Developer. For now I work for myself. ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "zakysansk@gmail.com",
+    "phone": "+62-1808107010026",
+    "address": {
+      "street": "1805 Fake Street",
+      "city": "indonesia",
+      "state": "ID",
+      "zip": "FCC 1850"
+    },
+    "website": "http://www.ahmadzaky.com",
+    "resumedownload": "http://www.ahmadzaky.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/ahmad.zaky.9041",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ahmad-zaky-491a6415a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ahmdzky00/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ahhzaky",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University Syiah Kuala",
+        "degree": "informatics bachelor",
+        "graduated": "Still In College",
+        "description": "Still In College"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelance",
+        "title": "Web and App Developer",
+        "years": "Present",
+        "description": "Free called to projeck."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "85%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "65%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "65%"
+      },
+      {
+        "name": "HTML5",
+        "level": "75%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "40%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://github.com/ahhzaky/airbnb-clone"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://github.com/ahhzaky/netflix-clone"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "“When to use iterative development? You should use iterative development only on projects that you want to succeed.",
+        "user": "Martin Fowler"
+      },
+      {
+        "text": "Make it work, make it right, make it fast.",
+        "user": "Kent Beck"
+      }
+    ]
+  }
+}
