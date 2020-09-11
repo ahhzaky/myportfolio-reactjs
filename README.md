@@ -23,6 +23,8 @@ npm start
 
 ![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
 
+## <a href="https://ahmadzaky.netlify.app/">LIVE DEMO</a>
+
 ## Authors
 
 - **Ahmad Zaky**
@@ -40,4 +42,4 @@ Header photo credit
 
 Testimonial photo credit
 <a href="https://unsplash.com/@samuelzeller?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Samuel Zeller</a>
-"# myportfolio-reactjs" 
+"# myportfolio-reactjs"
