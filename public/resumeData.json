@@ -60,15 +60,15 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "85%"
+        "level": "80%"
       },
       {
         "name": "CSS",
-        "level": "75%"
+        "level": "70%"
       },
       {
         "name": "Git",
-        "level": "65%"
+        "level": "60%"
       },
       {
         "name": "Figma && Adobe XD",
@@ -80,7 +80,7 @@
       },
       {
         "name": "MongoDB",
-        "level": "40%"
+        "level": "20%"
       }
     ]
   },
@@ -97,6 +97,24 @@
         "category": "Facebook Clone built with ReactJS",
         "image": "netflix-clone.jpeg",
         "url": "https://github.com/ahhzaky/netflix-clone"
+      },
+      {
+        "title": "Youtube Clone",
+        "category": "Youtube Clone built with ReactJS",
+        "image": "youtube-clone.jpg",
+        "url": "https://github.com/ahhzaky/youtube-clone"
+      },
+      {
+        "title": "Chat RealTime",
+        "category": "Chat RealTime built with ReactJS",
+        "image": "chat-app.png",
+        "url": "https://github.com/ahhzaky/Chat-RealTime"
+      },
+      {
+        "title": "Spotify Clone",
+        "category": "Spotify Clone built with ReactJS",
+        "image": "spotify-clone.jpg",
+        "url": "https://github.com/ahhzaky/spotify-clone"
       }
     ]
   },
