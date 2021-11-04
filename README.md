@@ -25,21 +25,27 @@ npm start
 
 ## <a href="https://ahmadzaky.netlify.app/">LIVE DEMO</a>
 
+## On Docker
+
+Pull this images
+
+```
+docker pull ahmadzky08/myportfolio-react
+```
+
+AND RUNN
+
+```
+docker run -it -p 8888:3000 ahmadzky08/myportfolio-react
+```
+
+AND CHECK RUN ON LOCALHOST
+
+```
+http://localhost:8888/
+```
+
 ## Authors
 
 - **Ahmad Zaky**
   reference from the video [Clever Programmer](https://www.youtube.com/watch?v=rv8f-BxRq0g)
-
-## Credits
-
-#### All Credits Goes to Tim Baker <a href='https://github.com/tbakerx/react-resume-template'>Original Repo</a>
-
-HTML Design Template
-<a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by Styleshout</a>
-
-Header photo credit
-<a href="https://unsplash.com/@mischievous_penguins?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Casey Horner</a>
-
-Testimonial photo credit
-<a href="https://unsplash.com/@samuelzeller?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Samuel Zeller</a>
-"# myportfolio-reactjs"

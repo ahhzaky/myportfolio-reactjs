@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "jquery": "^3.5.1",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-ga": "^3.1.2",
+    "jquery": "^3.6.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-ga": "^3.3.0",
     "react-scripts": "3.4.3"
   },
   "scripts": {
@@ -15,6 +15,10 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
+  "description": "## 👇 WATCH THIS FIRST 👇 ## https://tinyurl.com/customizeReactPortfolio",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
   "browserslist": {
     "production": [
       ">0.2%",
@@ -26,9 +30,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "## 👇 WATCH THIS FIRST 👇 ## https://tinyurl.com/customizeReactPortfolio",
-  "main": "index.js",
-  "author": "",
-  "license": "ISC"
+  }
 }
